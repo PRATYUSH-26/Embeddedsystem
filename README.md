@@ -1,2 +1,2 @@
-# Embeddedsystem
+# Embedded
 This is my first repository.
